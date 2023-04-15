@@ -1,0 +1,3 @@
+https://pub.dev/documentation/tesla/latest/tesla/Vehicle-class.html
+
+set_auto_conditioning in celcius
